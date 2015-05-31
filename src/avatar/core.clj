@@ -65,6 +65,7 @@
     (pad-1d border-width fill-width empty-line
             (map (partial pad-1d border-width fill-width padding)
                  content))))
+
 (defn make-it! [size filename]
   (let [data (sierpinski-square size)
         padded-data (pad-2d 3 30 false data)]
