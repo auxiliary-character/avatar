@@ -1,6 +1,7 @@
 # Avatar
 
 This is my avatar, and how I made it.
+It's like the [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle), but with pixels.
 
 ## License
 
